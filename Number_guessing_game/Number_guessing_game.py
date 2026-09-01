@@ -14,5 +14,3 @@ while True:
     elif int(guess)==number:
          print(f"Congratulations! You guessed the number correctly. Number was: {number}")
          break
-
-        
