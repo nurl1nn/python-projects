@@ -13,7 +13,7 @@ A collection of small Python projects built while learning.
 
 ## About
 
-These projects were built as part of my Python learning journey and CodeAlpha internship program.
+These projects were built as part of my Python learning journey program.
 
 ## Author
 
