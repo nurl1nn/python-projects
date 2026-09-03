@@ -1,5 +1,9 @@
 def add_expense(liste):
-     Məbləğ=int(input("Add money: "))
+     try:
+          Məbləğ=int(input("Add money: "))
+     except ValueError:
+          print("You can add only number")
+          return
      Kateqoriya=input("Add a category: ")
      Tarix=input("Add a date: ")
      liste.append({"Məbləğ": Məbləğ,"Kateqoriya": Kateqoriya,"Tarix": Tarix})
