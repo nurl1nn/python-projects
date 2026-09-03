@@ -1,19 +1,24 @@
 # Python Projects 🐍
 
-A collection of small Python projects built while learning.
+A collection of small Python projects built while learning and practicing Python.
 
 ## Projects
 
 | Project | Description |
-|---------|-------------|
+|---|---|
+| [Basic Calculator](./Basic%20calculator) | A simple calculator for basic arithmetic operations |
+| [Daily Planner](./Daily_planner) | A simple daily task and planning application |
+| [Expense Tracker](./Expense%20Tracker) | Track and manage daily expenses |
+| [Number Guessing Game](./Number%20guessing%20game) | Guess the randomly generated number |
+| [QR Code Generator](./QR_code_generator) | Generate QR codes for URLs, WiFi and vCard |
+| [Rock Paper Scissors](./Rock_Paper_Scissor) | Classic Rock Paper Scissors game against a bot |
 | [Dice Game](./dice_game) | A simple dice rolling game |
-| [Number Guessing Game](./Number_guessing_game) | Guess the randomly generated number |
-| [Rock Paper Scissor](./Rock_Paper_Scissor) | Classic hand game against a bot |
-| [QR Code Generator](./QR_code_generator) | Generate QR codes for URL, WiFi and vCard |
 
 ## About
 
-These projects were built as part of my Python learning journey program.
+These projects were built as part of my Python learning journey.
+
+They helped me practice Python fundamentals, problem-solving, user input, conditional statements, loops, functions, error handling, and working with Python libraries.
 
 ## Author
 
