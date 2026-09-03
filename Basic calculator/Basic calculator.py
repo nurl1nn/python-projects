@@ -22,3 +22,4 @@ while daxil!="E":
         print("Result:", eded*eded2)
     else:
        print("That is not defined")
+print("Program finished")
