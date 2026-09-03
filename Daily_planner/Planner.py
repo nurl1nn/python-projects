@@ -1,6 +1,4 @@
-to_do=[
-    {"Task": "Idman" , "Prioritet": "Yuksek" , "Texmini_vaxt": "1 saat"}
-]
+to_do=[]
 tapsiriq=""
 prioritet=""
 vaxt=""
