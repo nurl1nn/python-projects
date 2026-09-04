@@ -9,6 +9,18 @@ A simple command-line expense tracking tool built with Python.
 - Calculate total expenses
 - Save expenses to a CSV file
 
+## Requirements
+
+- Python 3.x
+- No external libraries required
+
+## Usage
+
+Run the program:
+
+```bash
+python main.py
+```
 
 Follow the prompts:
 
@@ -30,6 +42,15 @@ When you are done adding expenses, press `N` to stop and view your summary.
 Your total expenses is: 15AZN
 ```
 
+## Project Structure
+
+```
+expense-tracker/
+│
+├── main.py       # Main application
+└── README.md     # Project documentation
+```
+
 ## Author
 
-Nurlan — Python Project
+Nurlan — Python Internship Project
