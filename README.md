@@ -13,6 +13,7 @@ A collection of small Python projects built while learning and practicing Python
 | [QR Code Generator](./QR_code_generator) | Generate QR codes for URLs, WiFi and vCard |
 | [Rock Paper Scissors](./Rock_Paper_Scissor) | Classic Rock Paper Scissors game against a bot |
 | [Dice Game](./dice_game) | A simple dice rolling game |
+| [Password Generator](./Password_generator.py) | Generate secure passwords with custom options |
 
 ## About
 
