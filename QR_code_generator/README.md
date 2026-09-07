@@ -8,6 +8,10 @@ A simple command-line tool that generates QR codes for URLs, WiFi networks, and 
 - 📶 **WiFi** — Generate a scannable WiFi QR code (no password typing needed)
 - 👤 **vCard** — Generate a contact QR code (name, phone, email)
 
+  ## Error Handling
+- Invalid input type is caught and a clear message is shown
+- Unexpected errors are caught with a descriptive message
+
 ## Requirements
 
 - Python 3.x
