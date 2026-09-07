@@ -14,6 +14,7 @@ A collection of small Python projects built while learning and practicing Python
 | [Rock Paper Scissors](./Rock_Paper_Scissor) | Classic Rock Paper Scissors game against a bot |
 | [Dice Game](./dice_game) | A simple dice rolling game |
 | [Password Generator](./Password_generator.py) | Generate secure passwords with custom options |
+| [Weather App](./weather.py) | Get real-time weather data for any city |
 
 ## About
 
