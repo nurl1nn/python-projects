@@ -26,6 +26,7 @@ They helped me practice Python fundamentals, problem-solving, user input, condit
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/nurl1nn/Python-Projects)
 ![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
+![Last Commit](https://img.shields.io/github/last-commit/nurl1nn/Python-Projects)
 
 ## Author
 
