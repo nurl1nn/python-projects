@@ -26,14 +26,24 @@ questions = [
     }
 ]
 score = 0
-for item in questions:
-    print(item["question"])
-    for opt in item["options"]:
-        print(opt)
-    user_ans = input("Your answer (A/B/C/D): ").strip().upper()
-    if user_ans == item["answer"]:
-        print("Correct!\n")
-        score += 1
-    else:
-        print(f"Wrong! Correct answer was {item['answer']}\n")
-print(f"Final Score: {score}/{len(questions)}")
+try:
+    for item in questions:
+        print(item["question"])
+        for opt in item["options"]:
+            print(opt)
+        while True:
+            try:
+                user_ans = input("Your answer (A/B/C/D): ").strip().upper()
+                if user_ans not in ["A", "B", "C", "D"]:
+                    raise ValueError("Invalid choice! Please enter A, B, C, or D.")
+                break  # Keçərli cavab verildikdə dövrədən çıxır
+            except ValueError as e:
+                print(f"Error: {e}\n")
+        if user_ans == item["answer"]:
+            print("Correct!\n")
+            score += 1
+        else:
+            print(f"Wrong! Correct answer was {item['answer']}\n")
+    print(f"Final Score: {score}/{len(questions)}")
+except KeyboardInterrupt:
+    print("\nQuiz interrupted by user. Goodbye!")
