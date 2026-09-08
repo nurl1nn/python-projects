@@ -23,6 +23,10 @@ These projects were built as part of my Python learning journey.
 
 They helped me practice Python fundamentals, problem-solving, user input, conditional statements, loops, functions, error handling, and working with Python libraries.
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/nurl1nn/Python-Projects)
+![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
+
 ## Author
 
 Nurlan — [github.com/nurl1nn](https://github.com/nurl1nn)
