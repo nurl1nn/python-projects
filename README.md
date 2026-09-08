@@ -15,6 +15,7 @@ A collection of small Python projects built while learning and practicing Python
 | [Dice Game](./dice_game) | A simple dice rolling game |
 | [Password Generator](./Password_generator.py) | Generate secure passwords with custom options |
 | [Weather App](./weather.py) | Get real-time weather data for any city |
+| [Quiz App](./Quiz.py) | A CLI quiz application with multiple-choice IT and networking questions |
 
 ## About
 
